@@ -4,7 +4,7 @@
 This project is a functioning daily planner used to schedule events by the hour. It has an updating clock that shows the current day and day of the week, text boxes where you can type information and save it to local storage to be looked upon later, and dynamically changing colors for text boxes to represent the past, present, and future hour block. Past blocks are displayed as blue, current blocks are displayed as red, and future blocks are displayed as green. The point of this project was to familiarize myself with the use of local storage, bootstrap, JQUERY, DayJS, more practice with for loops, and a variety of other skills related to Javascript.
 
 <h3>Screenshot</h3>
-![image](https://github.com/KevinKiely/Daily-Planner/assets/153389427/e9ac4a4c-65a0-4223-b4fa-41d925c1d393)
+![Capture 2](https://github.com/KevinKiely/Daily-Planner/assets/153389427/8fd1caac-9af0-4fc5-b7df-564ca1f36b4a)
 
 
 <h3>GITHUB URL</h3>
